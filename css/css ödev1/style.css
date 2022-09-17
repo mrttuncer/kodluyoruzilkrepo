@@ -1,0 +1,21 @@
+body {
+    background-color:aquamarine ;
+}
+.orta {
+    text-align: center;
+}
+ul {
+    list-style-position: inside;
+}
+ol {
+    list-style-position: inside;
+}
+h1 {
+    color: red;
+}
+h2 {
+    color: purple;
+}
+h3 {
+    color: rgb(132, 132, 6);
+}
