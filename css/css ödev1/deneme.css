@@ -1,0 +1,35 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.left-bar {
+  width: 400px;
+  float: left;
+}
+.content {
+    width: 600px;
+    float: left;
+}
+.container {
+    width: 1000px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 10px auto ;
+}
+.card {
+    width: 21%;
+    float: left;
+    padding: 5%;
+    background-color: aqua;
+    margin:1% ;
+    border-radius: 10px;
+}
+.bg-red {
+    background-color: red;
+}
+.bg-yellow {
+    background-color:yellow;
+}
+.bg-purple {
+    background-color: purple;
+}
